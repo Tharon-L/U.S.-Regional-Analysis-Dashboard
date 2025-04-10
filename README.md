@@ -17,7 +17,6 @@ insurance-analysis/
 │   └── insurance_clean.csv      # Processed dataset for Power BI  
 ├── insurance_analysis.py        # Main analysis script  
 ├── README.md                    # Project documentation  
-└── requirements.txt             # Python dependencies  
 ```
 
 ---
