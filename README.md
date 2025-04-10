@@ -1,6 +1,6 @@
 # **U.S.-Regional-Analysis-Dashboard**
 
-# *Advanced Insurance Data Analysis with Pandas* 
+# *Insurance Data Analysis with Pandas* 
 
 ## **📌 Project Overview**  
 This Python project performs **comprehensive statistical analysis** on medical insurance data using **pandas** for advanced data processing. It calculates key metrics by region and exports results for **Power BI visualization**.  
